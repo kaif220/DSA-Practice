@@ -1,0 +1,445 @@
+<script id="__NEXT_DATA__" type="application/json">{
+    "props": {
+        "pageProps": {
+            "content": {
+                "__typename": "PageContent",
+                "pageType": "DISCOVERYLANDINGPAGE",
+                "aboveHeader": [],
+                "alternates": [
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_gb",
+                        "path": "/en_gb/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "ar_sa",
+                        "path": "/ar_sa/fashion/أزياء-النساء/الحقائب/كل-الحقائب"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_pl",
+                        "path": "/en_pl/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_cy",
+                        "path": "/en_cy/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "pt_br",
+                        "path": "/pt_br/fashion/moda-feminina/bolsas/todas-as-bolsas"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_cz",
+                        "path": "/en_cz/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_ph",
+                        "path": "/en_ph/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "th_th",
+                        "path": "/th_th/fashion/แฟชั่นผู้หญิง/กระเป๋า/กระเป๋าทั้งหมด"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_th",
+                        "path": "/en_th/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_gr",
+                        "path": "/en_gr/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "it_ch",
+                        "path": "/it_ch/fashion/moda-donna/borse/tutte-le-borse"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "ko_kr",
+                        "path": "/ko_kr/fashion/여성-패션/여성-가방/핸드백-전체-보기"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "es_sam",
+                        "path": "/es_sam/fashion/moda-mujer/bolsos/todos-los-bolsos"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_ch",
+                        "path": "/en_ch/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_us",
+                        "path": "/en_us/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "de_ch",
+                        "path": "/de_ch/fashion/damenmode/taschen/alle-taschen"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_ee",
+                        "path": "/en_ee/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_id",
+                        "path": "/en_id/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_ie",
+                        "path": "/en_ie/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "zh_cn",
+                        "path": "/zh_cn/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "fr_ch",
+                        "path": "/fr_ch/fashion/mode-femme/sacs/tous-les-sacs"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_hr",
+                        "path": "/en_hr/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_lv",
+                        "path": "/en_lv/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "nl_be",
+                        "path": "/nl_be/fashion/damesmode/tassen/alle-tassen"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_hu",
+                        "path": "/en_hu/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "es_es",
+                        "path": "/es_es/fashion/moda-mujer/bolsos/todos-los-bolsos"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "es_mx",
+                        "path": "/es_mx/moda-mujer/bolsos/todos-los-bolsos"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_dk",
+                        "path": "/en_dk/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_lt",
+                        "path": "/en_lt/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_lu",
+                        "path": "/en_lu/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_hk",
+                        "path": "/en_hk/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "nl_nl",
+                        "path": "/nl_nl/fashion/damesmode/tassen/alle-tassen"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_pt",
+                        "path": "/en_pt/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "zh_hk",
+                        "path": "/zh_hk/fashion/女士精品/時尚手袋/所有手提包"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "zh_tw",
+                        "path": "/zh_tw/fashion/女士精品/時尚手袋/所有手提包"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_no",
+                        "path": "/en_no/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_ro",
+                        "path": "/en_ro/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_vn",
+                        "path": "/en_vn/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "ja_jp",
+                        "path": "/ja_jp/fashion/ウィメンズファッション/バッグ/すべてのバッグ"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "fr_fr",
+                        "path": "/fr_fr/fashion/mode-femme/sacs/tous-les-sacs"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "fr_be",
+                        "path": "/fr_be/fashion/mode-femme/sacs/tous-les-sacs"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "fr_ca",
+                        "path": "/fr_ca/fashion/mode-femme/sacs/tous-les-sacs"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "de_de",
+                        "path": "/de_de/fashion/damenmode/taschen/alle-taschen"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "de_at",
+                        "path": "/de_at/fashion/damenmode/taschen/alle-taschen"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_at",
+                        "path": "/en_at/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_au",
+                        "path": "/en_au/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "it_it",
+                        "path": "/it_it/fashion/moda-donna/borse/tutte-le-borse"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_my",
+                        "path": "/en_my/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_int",
+                        "path": "/en_int/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_ae",
+                        "path": "/en_ae/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_in",
+                        "path": "/en_in/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_ca",
+                        "path": "/en_ca/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_fi",
+                        "path": "/en_fi/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_sa",
+                        "path": "/en_sa/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_nz",
+                        "path": "/en_nz/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_bg",
+                        "path": "/en_bg/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_se",
+                        "path": "/en_se/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_si",
+                        "path": "/en_si/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_sk",
+                        "path": "/en_sk/fashion/womens-fashion/bags/all-the-bags"
+                    },
+                    {
+                        "__typename": "Alternate",
+                        "locale": "en_sg",
+                        "path": "/en_sg/fashion/womens-fashion/bags/all-the-bags"
+                    }
+                ],
+                "breadcrumb": [
+                    {
+                        "__typename": "Breadcrumb",
+                        "title": "DIOR",
+                        "type": "HOMEPAGE",
+                        "pageId": "113700",
+                        "path": "/en_gb"
+                    },
+                    {
+                        "__typename": "Breadcrumb",
+                        "title": "Fashion \u0026 Accessories",
+                        "type": "DISCOVERYLANDINGPAGE",
+                        "pageId": "140098",
+                        "path": "/en_gb/fashion"
+                    },
+                    {
+                        "__typename": "Breadcrumb",
+                        "title": "womens-fashion",
+                        "type": "DISCOVERYLANDINGPAGE",
+                        "pageId": "140686",
+                        "path": "/en_gb/fashion/womens-fashion"
+                    },
+                    {
+                        "__typename": "Breadcrumb",
+                        "title": "bags",
+                        "type": "DISCOVERYLANDINGPAGE",
+                        "pageId": "140706",
+                        "path": "/en_gb/fashion/womens-fashion/bags"
+                    },
+                    {
+                        "__typename": "Breadcrumb",
+                        "title": "All Bags",
+                        "type": "DISCOVERYLANDINGPAGE",
+                        "pageId": "140232",
+                        "path": "/en_gb/fashion/womens-fashion/bags/all-the-bags"
+                    }
+                ],
+                "commerceCategories": [
+                    "cdc-diorcom_femme_sacs_diorrosegold",
+                    "cdc-diorcom_femme_petitemaroquinerie_pochettes",
+                    "cdc-diorcom_femme_sacs",
+                    "cdc-diorcom_femme_sacs_cabas",
+                    "cdc-diorcom_femme_sacs_exotiques",
+                    "cdc-diorcom_femme_sacs_exotiques",
+                    "cdc-diorcom_femme_sacs_exotiques_30montaigne",
+                    "cdc-diorcom_femme_sacs_exotiques_ladydior",
+                    "cdc-diorcom_femme_sacs_exotiques_saddle",
+                    "cdc-diorcom_femme_sacs_exotiques_diorbooktote",
+                    "cdc-diorcom_femme_sacs_sacsados",
+                    "cdc-diorcom_femme_sacs_sacsamain",
+                    "cdc-diorcom_femme_sacs_sacsarabat",
+                    "cdc-diorcom_femme_sacs_sacsarabat_cestdior",
+                    "cdc-diorcom_femme_sacs_sacsarabat_dbee",
+                    "cdc-diorcom_femme_sacs_sacsarabat_dfence",
+                    "cdc-diorcom_femme_sacs_sacsarabat_dior21st",
+                    "cdc-diorcom_femme_sacs_sacsarabat_dioroblique",
+                    "cdc-diorcom_femme_sacs_sacsarabat_diorama",
+                    "cdc-diorcom_femme_sacs_sacsarabat_saddle",
+                    "cdc-diorcom_femme_sacs_sacsarabat_missdior",
+                    "cdc-diorcom_femme_sacs_sacsarabat_jadior",
+                    "cdc-diorcom_femme_sacs_sacsarabat_diorevolution",
+                    "cdc-diorcom_femme_sacs_sacsarabat_dioraddict",
+                    "cdc-diorcom_femme_sacs_sacsdusoir_diorvibe",
+                    "cdc-diorcom_femme_sacs_sacsexotiques_dioraddict",
+                    "cdc-diorcom_femme_sacs_sacsexotiques_diorama",
+                    "cdc-diorcom_femme_sacs_sacsexotiques_my30montaigne",
+                    "cdc-diorcom_femme_sacs_sacsamain_boston",
+                    "cdc-diorcom_femme_sacs_sacsamain_bucketbag",
+                    "cdc-diorcom_femme_sacs_sacsamain_cdsignature",
+                    "cdc-diorcom_femme_sacs_sacsamain_dior21st"
+                ],
+                "errors": [],
+                "exploreMore": null,
+                "elements": [
+                    {
+                        "__typename": "Empty"
+                    },
+                    {
+                        "type": "FILTERS"
+                    },
+                    {
+                        "__typename": "MerchandisingGrid",
+                        "type": "MERCHANDISING_PRODUCTS_GRID",
+                        "nodeId": "2491986",
+                        "id": "2491986",
+                        "query": "women-allthebags-1"
+                    },
+                    {
+                        "__typename": "MerchandisingGrid",
+                        "type": "MERCHANDISING_PRODUCTS_GRID",
+                        "nodeId": "144258",
+                        "id": "144258",
+                        "query": "women-allthebags"
+                    },
+                    {
+                        "__typename": "MerchandisingGrid",
+                        "type": "MERCHANDISING_PRODUCTS_GRID",
+                        "nodeId": "144260",
+                        "id": "144260",
+                        "query": "women-allthebags-2"
+                    },
+                    {
+                        "__typename": "MerchandisingGrid",
+                        "type": "MERCHANDISING_PRODUCTS_GRID",
+                        "nodeId": "144262",
+                        "id": "144262",
+                        "query": "women-allthebags-3"
+                    },
+                    {
+                        "__typename": "MerchandisingGrid",
+                        "type": "MERCHANDISING_PRODUCTS_GRID",
+                        "nodeId": "144264",
+                        "id": "144264",
+                        "query": "women-allthebags-4"
+                    },
+                    {
+                        "type": "GRID",
+                        "nodeId": "2789880",
+                        "desktopGrid": {
+                            "bottomPadding": "na",
+                            "fullBleed": false,
+                            "backgroundColor": null,
+                            "disableAnimation": false,
+                            "items": [
+                                {
+                                    "__typename": "GridItem",
+                                    "columns": 12,
+                                    "offset": 0,
+                                    "yPosition": "center",
+                                    "element": {
+                                        "type": "COPY_CELL",
+                                        "nodeId": "152454",
+                                        "bodyCopy": {
+                                            "__typename": "CopyCellBodyCopy",
+                                            "croppedText_new": "\u003cp\u003eInspired by the House's archives as well as Christian Dior's life, Maria Grazia Chiuri imagines sophisticated women's luxury designer bags that deliver a meaningful message. Driven by a powerful feminist vision that drives her fashion shows, the creative director creates women's fashion bags that are both functional and timeless. \u003c/p\u003e",
+                                            "fullText_new":"\u003cp\u003eInspired by the House's archives as well as Christian Dior's life, Maria Grazia Chiuri imagines sophisticated women's luxury designer bags that deliver a meaningful message. Driven by a powerful feminist vision that drives her fashion shows, the creative director creates women's fashion bags that are both functional and time…</script>
